@@ -48,5 +48,3 @@ var wrapper = function () {
     var PIE = subsetsToPIE(subsets, true);
     document.getElementById("PIE").value = PIE;
 };
-//# sourceMappingURL=InclusionExclusion.js.map
-//# sourceMappingURL=https://rawcdn.githack.com/AaDalal/inclusion-exclusion-js/726677c1b5dce00a5f79bdb9430ba9a71a84c03e/InclusionExclusion.js.map
